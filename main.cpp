@@ -58,3 +58,4 @@ int main()
 
     return 0;
 }
+//program ini memiliki kekurangan belum bisa mengatasi tahun kabisat karena udh mepet deadline hehe
